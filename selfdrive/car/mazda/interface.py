@@ -12,7 +12,7 @@ class CanBus():
   def __init__(self):
     self.powertrain = 0
     self.obstacle = 1
-    self.cam = 2
+    self.cam = 1
 
 ButtonType = car.CarState.ButtonEvent.Type
 
